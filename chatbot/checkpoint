@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/arijit/Projects/ML-AI/chatbot/model-chatbot.tflearn"
+all_model_checkpoint_paths: "/home/arijit/Projects/ML-AI/chatbot/model-chatbot.tflearn"
